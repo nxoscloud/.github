@@ -1,4 +1,5 @@
 ## Hi there 👋
+We're an Nxium Development Division that focuses on creating modular firmware for Nxium Developments
 
 <!--
 
